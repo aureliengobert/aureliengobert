@@ -1,5 +1,15 @@
-### Hi there 👋
+### TP 0 robotique
 
+## A propos de moi
+
+_Je suis un étudiant en 2eme bachelier en automatisation.
+Je m'interesse beaucoup aux voitures et à  leurs focntionnement en détail.
+En ce moment je travaille sur un projet en Prévention ou nous devons crée un pinball.
+Mon hobby favori est sans aucun doute le tennis._
+
+## Contributions
+
+_a venir :)_
 <!--
 **aureliengobert/aureliengobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
